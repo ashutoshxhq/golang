@@ -52,3 +52,12 @@ Because Go language is an effort to combine the ease of programming of an interp
 * It has no support for generics, even if there are many discussions about it.
 * The packages distributed with this programming language is quite useful but Go is not so object-oriented in the conventional sense.
 * There is absence of some libraries especially a UI tool kit.
+
+## Things build with go
+* Docker: a set of tools for deploying linux containers
+* Openshift: a cloud computing platform as a service by Red Hat.
+* Kubernetes: The future of seamlessly automated deployment processes
+* Dropbox: migrated some of their critical components from Python to Go.
+* Netflix: for two part of their server architecture.
+* InfluxDB: is an open-source time series database developed by InfluxData.
+* Golang: The language itself was written in Go.
