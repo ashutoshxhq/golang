@@ -33,4 +33,4 @@ Or to compile, build and also run it execute:
 $ go run filename.go
 ```
 
-**All Commands are executed in terminal/cmd**
+**NOTE: All Commands are to be executed in terminal/cmd**
