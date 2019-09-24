@@ -60,4 +60,3 @@ Because Go language is an effort to combine the ease of programming of an interp
 * Dropbox: migrated some of their critical components from Python to Go.
 * Netflix: for two part of their server architecture.
 * InfluxDB: is an open-source time series database developed by InfluxData.
-* Golang: The language itself was written in Go.
