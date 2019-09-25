@@ -46,8 +46,45 @@ The boolean data type represents only one bit of information either true or fals
 String data type represents a sequence of Unicode code points. Or in other words, we can say a string is a sequence of immutable bytes, means once a string is created you cannot change that string. A string may contain arbitrary data, including bytes with zero value in the human-readable form.
 <br/>
 
-## Varibale Declaration
+## Varibale Declaration & Initialization
 **Syntax**
 ```
 var variable_name type = expression
+```
+
+**Example**
+```
+var salary float64 = 120000.00
+```
+
+**Other Declaration methods**
+* This will automatically add type based on the value
+```
+var pqr = 20 
+```
+
+* This will declare and initialize mutiple variables at the same time
+```
+var pqr, abc, xyz int = 1, 7000, 123
+```
+
+* This will declare and initialize multiple varibles with multiple types at the same time
+```
+var pqr, abc, xyz = 2, "ABC", 42.5
+```
+
+* Short hand syntax
+```
+variable_name:= value
+```
+
+* Multiple variables with short hand 
+```
+abc, xyz, pqr := 100, 50, 1 
+```
+
+
+* Multiple variables with multiple types in short hand 
+```
+abc, xyz, pqr := 100, "PQR", 102.5 
 ```
