@@ -27,3 +27,11 @@ In this section we are going to discuss about variables in golang.
 | ------------------|:---------------------------------------:|
 | float32              | 32-bit IEEE 754 floating-point number     |
 | float64             | 64-bit IEEE 754 floating-point number   |
+
+
+3. **Complex Numbers**
+
+| Data Type         | Description                |
+| ------------------|:---------------------------------------:|
+| complex64              | Complex numbers which contain float32 as a real and imaginary component.     |
+| complex128             | Complex numbers which contain float64 as a real and imaginary component.   |
