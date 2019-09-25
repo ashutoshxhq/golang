@@ -20,3 +20,10 @@ In this section we are going to discuss about variables in golang.
 | rune              | synonym of int32           |
 | byte              | synonym of int8            |
 | uintptr           | all the bits of pointer value  |
+
+2. **Floating-Point Numbers**
+
+| Data Type         | Description                |
+| ------------------|:---------------------------------------:|
+| float32              | 32-bit IEEE 754 floating-point number     |
+| float64             | 64-bit IEEE 754 floating-point number   |
