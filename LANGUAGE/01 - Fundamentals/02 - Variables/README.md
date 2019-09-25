@@ -19,4 +19,4 @@ In this section we are going to discuss about variables in golang.
 | uint              | either 32 or 64 bit        |
 | rune              | synonym of int32           |
 | byte              | synonym of int8            |
-| uintptr           | all the bits of ptr value  |
+| uintptr           | all the bits of pointer value  |
