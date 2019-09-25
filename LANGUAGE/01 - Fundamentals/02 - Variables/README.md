@@ -6,7 +6,7 @@ In this section we are going to discuss about variables in golang.
 1. **Numbers**
 
 | Data Type         | Description                |
-| ------------------|:--------------------------:|
+| ------------------|:---------------------------------------:|
 | int8              | 8 bit signed integer       |
 | int16             | 16 bit signed integer      |
 | int32             | 32 bit signed integer      |
